@@ -1,0 +1,4 @@
+*.photoslibrary
+*.schema
+export/*
+.DS_Store
